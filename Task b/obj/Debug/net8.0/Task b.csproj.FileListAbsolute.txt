@@ -1,0 +1,14 @@
+C:\Users\momattar\source\repos\innotechTasks\Task b\bin\Debug\net8.0\Task b.exe
+C:\Users\momattar\source\repos\innotechTasks\Task b\bin\Debug\net8.0\Task b.deps.json
+C:\Users\momattar\source\repos\innotechTasks\Task b\bin\Debug\net8.0\Task b.runtimeconfig.json
+C:\Users\momattar\source\repos\innotechTasks\Task b\bin\Debug\net8.0\Task b.dll
+C:\Users\momattar\source\repos\innotechTasks\Task b\bin\Debug\net8.0\Task b.pdb
+C:\Users\momattar\source\repos\innotechTasks\Task b\obj\Debug\net8.0\Task b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\momattar\source\repos\innotechTasks\Task b\obj\Debug\net8.0\Task b.AssemblyInfoInputs.cache
+C:\Users\momattar\source\repos\innotechTasks\Task b\obj\Debug\net8.0\Task b.AssemblyInfo.cs
+C:\Users\momattar\source\repos\innotechTasks\Task b\obj\Debug\net8.0\Task b.csproj.CoreCompileInputs.cache
+C:\Users\momattar\source\repos\innotechTasks\Task b\obj\Debug\net8.0\Task b.dll
+C:\Users\momattar\source\repos\innotechTasks\Task b\obj\Debug\net8.0\refint\Task b.dll
+C:\Users\momattar\source\repos\innotechTasks\Task b\obj\Debug\net8.0\Task b.pdb
+C:\Users\momattar\source\repos\innotechTasks\Task b\obj\Debug\net8.0\Task b.genruntimeconfig.cache
+C:\Users\momattar\source\repos\innotechTasks\Task b\obj\Debug\net8.0\ref\Task b.dll

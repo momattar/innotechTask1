@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Students</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <!-- This will be only avaliable in admin view -->
+<body class="d-flex flex-column min-vh-100">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Student Info</a>
+    <div>
+      <ul class="navbar-nav d-flex flex-row gap-3">
+        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+        <li class="nav-item"><a class="nav-link active" href="#">Students</a></li>
+        <li class="nav-item"><a class="nav-link" href="profile.html">Profile</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<main class="container flex-grow-1 mt-5">
+<div class="container mt-5">
+  <h2>Student List</h2>
+  <table class="table table-bordered table-hover mt-3">
+    <thead class="table-primary">
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Grade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>101</td>
+        <td>Ahmed Youssef</td>
+        <td>ahmed@example.com</td>
+        <td>A</td>
+      </tr>
+      <tr>
+        <td>102</td>
+        <td>Salma Adel</td>
+        <td>salma@example.com</td>
+        <td>B+</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</main>
+
+<footer class="bg-light text-center py-3">
+  <small>&copy; 2025 Student Info System</small>
+</footer>
+</body>
+</html>
+
